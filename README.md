@@ -100,7 +100,32 @@ until finished
 
 
 ## 🎈 OUTPUT <a name="OUTPUT"></a>
-
+![table](https://github.com/pan78m/TourAndTravel/assets/103315572/130bd82d-1a44-475a-8422-57f30c72f776)
+![update 2](https://github.com/pan78m/TourAndTravel/assets/103315572/fdbdc1bf-2794-43cf-b51a-7d77d3a14c1b)
+![user table](https://github.com/pan78m/TourAndTravel/assets/103315572/077813d9-9296-4e0f-a602-656fb724fdc5)
+![user](https://github.com/pan78m/TourAndTravel/assets/103315572/a1460b78-bac5-4a84-909e-45727a3553be)
+![whilelist](https://github.com/pan78m/TourAndTravel/assets/103315572/5c9a45a4-bfb0-4188-9fea-bf4687df5b27)
+![add location](https://github.com/pan78m/TourAndTravel/assets/103315572/33cd5c4e-708d-4abe-96c9-d05f3f1c8e9b)
+![admin](https://github.com/pan78m/TourAndTravel/assets/103315572/7143c776-904b-4402-a65f-a72300685e25)
+![all packages](https://github.com/pan78m/TourAndTravel/assets/103315572/6c5ef6e3-ff00-4367-a1bf-28011b6b093f)
+![cart table](https://github.com/pan78m/TourAndTravel/assets/103315572/bec33dd5-6d77-459f-b9c3-f6e00084ed45)
+![cart](https://github.com/pan78m/TourAndTravel/assets/103315572/5cd5b780-1344-41bc-b6fb-8cef7e53c16c)
+![complete order](https://github.com/pan78m/TourAndTravel/assets/103315572/852766b8-ce1c-44bc-a086-ea171e014182)
+![dashboard](https://github.com/pan78m/TourAndTravel/assets/103315572/1cbeefdd-5551-4953-adf5-daa37cd68269)
+![database design](https://github.com/pan78m/TourAndTravel/assets/103315572/756f570e-7b78-491d-9460-72ec8d534cbd)
+![Destination](https://github.com/pan78m/TourAndTravel/assets/103315572/211e0cd9-7c25-406c-a826-7018fda91066)
+![footer](https://github.com/pan78m/TourAndTravel/assets/103315572/dfc794ca-1536-46fb-896a-cb5b6d5f8c7c)
+![header](https://github.com/pan78m/TourAndTravel/assets/103315572/ce77f763-3f6c-4774-ac32-0612f5db0244)
+![home](https://github.com/pan78m/TourAndTravel/assets/103315572/885cf8fd-1443-4e6c-844a-ebc4c757f2da)
+![login](https://github.com/pan78m/TourAndTravel/assets/103315572/d38fe96d-c495-4d68-8d3d-f097728310bc)
+![order list](https://github.com/pan78m/TourAndTravel/assets/103315572/5729e33a-37b2-4834-8fb5-5047eff34f22)
+![orders](https://github.com/pan78m/TourAndTravel/assets/103315572/76cddb48-cea2-4b87-9ade-fb93b4ede5ca)
+![package update](https://github.com/pan78m/TourAndTravel/assets/103315572/175cf87e-458e-44fb-a14b-951db5697162)
+![payment](https://github.com/pan78m/TourAndTravel/assets/103315572/822ef7f6-0add-4f17-8cd4-6b52f5301f90)
+![place order](https://github.com/pan78m/TourAndTravel/assets/103315572/02ded45b-18f0-42db-a48a-a1a92050aeec)
+![register](https://github.com/pan78m/TourAndTravel/assets/103315572/c7a950cb-df6f-4ff0-a746-2ac974fa84ff)
+![review table](https://github.com/pan78m/TourAndTravel/assets/103315572/c6509b6c-7298-433f-ab5c-952ae1126c01)
+![review](https://github.com/pan78m/TourAndTravel/assets/103315572/6d868ccd-355e-4d17-87db-c1cf9ba618b2)
 
 ## 🎈 Usage <a name="usage"></a>
 
